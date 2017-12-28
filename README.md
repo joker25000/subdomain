@@ -24,7 +24,7 @@ python subdomain.py -t target.com -l en/fr
 
 ## ★ Screenshot:
 
-https://i.imgur.com/WSvC6bw.png
+![pic1](https://i.imgur.com/WSvC6bw.png)
 
 ## ★ About:
 
