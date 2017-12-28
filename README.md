@@ -28,7 +28,7 @@ python subdomain.py -t target.com -l en/fr
 
 ## ★ video tutorial:
 
-[![ DZGEN - Works with Kali Linux tools ](https://i.imgur.com/WSvC6bw.png)](https://www.youtube.com/watch?v=GFnlDQzTqCI)
+[![ DZGEN - Works with Kali Linux tools ](https://i.ytimg.com/vi/GFnlDQzTqCI/hqdefault.jpg)](https://www.youtube.com/watch?v=GFnlDQzTqCI)
 
 ## ★ About:
 
