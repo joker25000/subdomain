@@ -1,5 +1,4 @@
 #Module dependencies (installable via pip):
-Python==2.7
 requests==2.10.0
 argparse==1.4.0
 json 
