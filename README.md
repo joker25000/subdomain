@@ -26,6 +26,10 @@ python subdomain.py -t target.com -l en/fr
 
 ![pic1](https://i.imgur.com/WSvC6bw.png)
 
+## ★ video tutorial:
+
+[![ DZGEN - Works with Kali Linux tools ](https://i.imgur.com/WSvC6bw.png)](https://www.youtube.com/watch?v=GFnlDQzTqCI)
+
 ## ★ About:
 
 ● WEBSITE : http://dev-labs.co
