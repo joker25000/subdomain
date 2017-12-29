@@ -53,7 +53,7 @@ kader = parser.parse_args()
 targets=kader.targets
 language=kader.language
 if language is None:
-	language="es"
+	language="en"
 if ((language != "fr") and (language !="en")):
 	print "\033[91mThis Language not available"
 	exit(1)
