@@ -1,5 +1,5 @@
 
-## ★ Subdomain
+## ★ Subdomain  ☠
 
    Author: Joker-Security [ dev-labs ]
 
