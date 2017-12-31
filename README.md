@@ -1,3 +1,7 @@
+[![Version](https://img.shields.io/badge/Subdomain-brightgreen.svg?maxAge=259200)]()
+[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-Ubuntu,Kali,Mint,Parrot-blue.svg)]()
+[![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
 
 ## ★ Subdomain  ☠
 
