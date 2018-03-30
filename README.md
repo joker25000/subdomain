@@ -1,4 +1,4 @@
-## ★ Subdomain  ☠
+## ★ Subdomain  ☠ | <img src="https://img.shields.io/badge/i-Subdomain-blue.svg">
 
    Author: Joker-Security [ dev-labs ]
 
