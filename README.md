@@ -31,8 +31,6 @@ python subdomain.py -t target.com -l en/fr
 
 ## ★ About:
 
-● WEBSITE : http://dev-labs.co
-
 ● Twitter : https://twitter.com/SecurityJoker
 
 ● YOUTUBE : https://www.youtube.com/c/Professionalhacker25
